@@ -28,12 +28,6 @@ Suba tudo em um repositório e faça a entrega.
 
 ## 💻 Como executar o projeto
 
-1. Primeiro você deve criar uma network para que os containers possam se comunicar entre si:
-
-```bash
-docker network create app-node-network
-```
-
 1. Agora basta executar o comando `docker run --rm -it pedrooesteves/go` para rodar o projeto:
 
 ``````
