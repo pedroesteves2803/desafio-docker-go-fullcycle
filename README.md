@@ -1,4 +1,4 @@
-# Desafio Full Cycle - Go com docker
+# 🐳 Desafio Full Cycle - Go com docker
 
 Desafio de go com docker do curso da Full Cycle
 
@@ -32,4 +32,10 @@ Suba tudo em um repositório e faça a entrega.
 
 ``````
 docker run --rm -it pedrooesteves/go
+``````
+
+## 🐳 Imagem no DockerHub
+
+``````
+https://hub.docker.com/repository/docker/pedrooesteves/go/general
 ``````
